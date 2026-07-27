@@ -52,13 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DarRahman&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarRahman/DarRahman/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarRahman/DarRahman/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DarRahman/DarRahman/output/github-contribution-grid-snake.svg">
-</picture>
-
 ---
 <div align="center">
   <i>Automated profile generated with AI · Cirebon, Indonesia</i>
