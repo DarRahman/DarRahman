@@ -40,9 +40,7 @@
 | :--- | :--- | :--- |
 | 🎮 **[hermes-discord-presence](https://github.com/DarRahman/hermes-discord-presence)** | Native Discord RPC plugin for Hermes Agent with real-time status & LLM metadata. | `Python` |
 | 🌾 **[PasarCirebon](https://github.com/DarRahman/PasarCirebon)** | Pantau Pangan Cirebon forecasting system dashboard. | `Python` `XGBoost` |
-| ⚡ **[aegis-llm-gateway](https://github.com/DarRahman/aegis-llm-gateway)** | Semantic caching & intelligent routing gateway for LLM deployments. | `Python` |
-| 🧬 **[cogni-graph](https://github.com/DarRahman/cogni-graph)** | Stateful long-term memory engine using hybrid vector-graph consolidation. | `Python` |
-| 🔄 **[langgraph-adaptive-rag-pipeline](https://github.com/DarRahman/langgraph-adaptive-rag-pipeline)** | Self-correcting RAG pipeline with LangGraph autonomous agent loops. | `Python` `TypeScript` |
+
 
 ---
 
