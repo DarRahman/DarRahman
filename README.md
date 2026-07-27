@@ -1,9 +1,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%90%8B+I'm+Badar+Rahman;AI+%26+Autonomous+Agents+Developer;Teknik+Informatika+%40+STIKOM+Poltek+Cirebon" alt="Typing SVG" />
-
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DarRahman&theme=tokyonight&no-frame=true&column=6" alt="Trophies" /></a>
-  </p>
 </div>
 
 ---
@@ -55,13 +51,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarRahman&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api?username=DarRahman&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
 </p>
-
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarRahman/DarRahman/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarRahman/DarRahman/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DarRahman/DarRahman/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 <div align="center">
