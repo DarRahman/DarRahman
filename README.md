@@ -67,10 +67,14 @@ Informatics student at STIKOM Poltek Cirebon working on machine learning, backen
 
 ---
 
-### Contribution Graph (3D)
+### Contribution Graphs
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/40c463/DarRahman" alt="Contribution Calendar" width="100%" />
 </p>
 
 ---
