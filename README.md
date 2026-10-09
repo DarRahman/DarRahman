@@ -67,6 +67,14 @@ Informatics student at STIKOM Poltek Cirebon working on machine learning, backen
 
 ---
 
+### Contribution Graph (3D)
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</p>
+
+---
+
 ### Activity and Metrics
 
 <p align="center">
