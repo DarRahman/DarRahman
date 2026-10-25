@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/kaiki.gif" alt="Kaiki Deishuu" width="500" />
+  <img src="./assets/kaiki.gif" alt="Kaiki Deishuu" width="100%" />
 </div>
 
 <br />
