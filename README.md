@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Badar Rahman" width="100%" />
+  <img src="./assets/kaiki.gif" alt="Kaiki Deishuu" width="500" />
 </div>
 
 <br />
 
 ### Overview
-Informatics student at STIKOM Poltek Cirebon working on machine learning, backend engineering, and LLM integrations.
+Informatics student at STIKOM Poltek Cirebon.
 
 > "The fake is of far greater value. In its deliberate attempt to be real, it possesses more reality than the actual thing." — Kaiki Deishuu
 
